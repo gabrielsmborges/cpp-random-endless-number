@@ -24,7 +24,6 @@ int main()
     cout << "Press Enter to Start";
     int iterations = 0;
     cin.ignore();
-    //long number
     while (true){
         if (iterations > 10000){
             system("clear");
