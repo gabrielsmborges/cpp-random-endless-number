@@ -1,4 +1,3 @@
-//C++ hello world prgram
 #include <iostream>
 #include <csignal>
 #include <cstdlib>
@@ -40,4 +39,3 @@ int main()
     }
     return 0;
 }
-
